@@ -1,0 +1,1 @@
+This is a data analysis project that I made in high school for my AP Computer Science Principles course. The datasets I used are not publicly available, unfortunately, but the tools I used to analyze them are included in this repository, along with my final report.
